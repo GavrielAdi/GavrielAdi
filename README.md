@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Cyber Security
 
 <div id="header" align="center">
-  <img src="http://knplabs.com/fr/blog/diving-into-docker-live-coding-session" width="100"/>
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="100"/>
 </div>
-http://knplabs.com/fr/blog/diving-into-docker-live-coding-session
+
 <!---
 GavrielAdi/GavrielAdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
