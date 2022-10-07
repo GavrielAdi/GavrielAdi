@@ -11,9 +11,13 @@
   </a>
   <a href="https://www.instagram.com/gavrieladi12/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+  </a><br>
+  <img src="https://komarev.com/ghpvc/?username=GavrielAdi&style=flat-square&color=blue" alt=""/>
 </div>
-<br>
+<h1 align="center">
+  Hey there😁😁😁
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 - 👋 Hi, I’m Gavriel Pramuda Kurniaadi <br>
 - 👀 I’m interested in Cyber Security, especially Digital Forensics <br>
 - 🌱 I’m currently learning Cyber Security <br>
