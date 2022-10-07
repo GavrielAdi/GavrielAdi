@@ -23,10 +23,11 @@
 </div>
 
 ### :man_technologist: About Me :
-
-- 👋 Hi, I’m Gavriel Pramuda Kurniaadi <br>
-- 👀 I’m interested in Cyber Security, especially Digital Forensics <br>
-- 🌱 I’m currently learning Cyber Security <br>
+I am just a simple human from Indonesia
+- 👋 My name is Gavriel Pramuda Kurniaadi <br>
+- :telescope: Studying Information Technology at Institut Teknologi Sepuluh Nopember <br>
+- 👀 Interested in Cyber Security, especially Digital Forensics <br>
+- 🌱 Loves to play Genshin and Honkai Impact
 
 <!---
 GavrielAdi/GavrielAdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
