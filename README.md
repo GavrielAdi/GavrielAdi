@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Cyber Security
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/coding-zOvBKUUEERdNm" width="100"/>
+  <img src="http://knplabs.com/fr/blog/diving-into-docker-live-coding-session" width="100"/>
 </div>
 
 <!---
