@@ -26,7 +26,7 @@ I'm Gavriel Pramuda Kurniaadi, a simple human from Indonesia who is eager to lea
 
 ## Socials:
 <a href="https://www.linkedin.com/in/gavriel-pramuda-kurniaadi-023074245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/@gavrieladi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@gavrieladi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gavrieladi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@gavrieladi" height="30" width="40" /></a>
 <a href="https://medium.com/@gavriel.k.adi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gavriel.k.adi12" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gavriel adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gavriel adi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/zacriel12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zacriel12" height="30" width="40" /></a>
