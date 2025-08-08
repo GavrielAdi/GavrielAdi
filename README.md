@@ -16,6 +16,9 @@ I'm Gavriel Pramuda Kurniaadi, a simple human from Indonesia who is eager to lea
  <img align="right" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
 👋 My name is Gavriel Pramuda Kurniaadi.<br>🔭 An Undergraduate Information Technology Student at Institut Teknologi Sepuluh Nopember.<br>👀 Interested in Cyber Security, especially Digital Forensics.<br>❤️ Loves CTF, Music🤟, and Gaming
 
+<br>
+<br>
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gavrieladi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gavriel.k.adi12@gmail.com) 
