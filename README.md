@@ -13,6 +13,7 @@
 I'm Gavriel Pramuda Kurniaadi, a simple human from Indonesia who is eager to learn more about cyber security, especially digital forensics. A young man who always likes a new challenge to maximize his potential in the cyber security world.
 
 # 💫 About Me:
+ <img align="right" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
 👋 My name is Gavriel Pramuda Kurniaadi.<br>🔭 An Undergraduate Information Technology Student at Institut Teknologi Sepuluh Nopember.<br>👀 Interested in Cyber Security, especially Digital Forensics.<br>❤️ Loves CTF, Music🤟, and Gaming
 
 
